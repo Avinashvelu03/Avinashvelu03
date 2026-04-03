@@ -32,30 +32,18 @@ All libraries are **zero-dependency**, **TypeScript-first**, with **100% test co
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Avinashvelu03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
-    height="165"
-    alt="GitHub stats for Avinash"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=Avinashvelu03&theme=tokyonight&hide_border=true&background=00000000"
-    height="165"
-    alt="GitHub streak for Avinash"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinashvelu03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub stats for Avinash" />
+  <img src="https://streak-stats.demolab.com/?user=Avinashvelu03&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak for Avinash" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashvelu03&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8"
-    height="165"
-    alt="Top languages used by Avinash"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashvelu03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165" alt="Top languages used by Avinash" />
 </p>
 
 ---
 
-## 📫 Contact
+## 📬 Contact
 
 - 📧 avinashvelu03@gmail.com
-- 📦 [npm profile](https://www.npmjs.com/~avinash695)
-- 🌍 Chennai, Tamil Nadu, India
+- 📦 [npm profile](https://www.npmjs.com/~avinashvelu03)
+- 🌏 Chennai, Tamil Nadu, India
