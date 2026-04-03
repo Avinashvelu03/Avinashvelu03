@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Avinash 👋
 
-<!--
-**Avinashvelu03/Avinashvelu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### TypeScript Library Author · Open Source Developer · Chennai, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Open Source Libraries
+
+All libraries are **zero-dependency**, **TypeScript-first**, with **100% test coverage** and dual **ESM/CJS** builds.
+
+| Library | Description | npm |
+|---|---|---|
+| [**flowshield**](https://github.com/Avinashvelu03/flowshield) | Resilience library: retry, circuit breaker, fault tolerance | [![npm](https://img.shields.io/npm/v/flowshield)](https://www.npmjs.com/package/flowshield) |
+| [**flowx-control**](https://github.com/Avinashvelu03/flowx-control) | Async flow control: semaphore, bulkhead, rate limiter, pipeline | [![npm](https://img.shields.io/npm/v/flowx-control)](https://www.npmjs.com/package/flowx-control) |
+| [**guarden**](https://github.com/Avinashvelu03/guarden) | 60+ type guards, Result/Option monads — 313 tests | [![npm](https://img.shields.io/npm/v/guarden)](https://www.npmjs.com/package/guarden) |
+| [**valicore**](https://github.com/Avinashvelu03/valicore) | Schema validation with deep type inference & async support | [![npm](https://img.shields.io/npm/v/valicore)](https://www.npmjs.com/package/valicore) |
+| [**ultraenv**](https://github.com/Avinashvelu03/ultraenv) | Type-safe env manager with encrypted vaults | [![npm](https://img.shields.io/npm/v/ultraenv)](https://www.npmjs.com/package/ultraenv) |
+| [**mathfuse**](https://github.com/Avinashvelu03/mathfuse) | Math library: stats, algebra, number theory — 124 tests | [![npm](https://img.shields.io/npm/v/mathfuse)](https://www.npmjs.com/package/mathfuse) |
+| [**typeforge-ts**](https://github.com/Avinashvelu03/TypeForge-ts) | Modern lodash replacement — utility toolkit | [![npm](https://img.shields.io/npm/v/typeforge-ts)](https://www.npmjs.com/package/typeforge-ts) |
+
+---
+
+## 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinashvelu03&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+## 📫 Contact
+
+- 📧 avinashvelu03@gmail.com
+- 📦 [npm profile](https://www.npmjs.com/~avinashvelu03)
+- 🌍 Chennai, Tamil Nadu, India
