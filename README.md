@@ -31,7 +31,7 @@ All libraries are **zero-dependency**, **TypeScript-first**, with **100% test co
 
 ## 📊 GitHub Stats
 
-![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinashvelu03&show_icons=true&theme=dark&hide_border=true)
+[![Avinash's GitHub Stats](https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=Avinashvelu03&show_icons=true&theme=dark&hide_border=true)](https://github.com/Avinashvelu03)
 
 ---
 
