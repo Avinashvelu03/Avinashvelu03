@@ -38,5 +38,5 @@ All libraries are **zero-dependency**, **TypeScript-first**, with **100% test co
 ## 📫 Contact
 
 - 📧 avinashvelu03@gmail.com
-- 📦 [npm profile](https://www.npmjs.com/~avinashvelu03)
+- 📦 [npm profile](https://www.npmjs.com/~avinash695)
 - 🌍 Chennai, Tamil Nadu, India
