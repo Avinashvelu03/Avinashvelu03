@@ -32,11 +32,7 @@ All libraries are **zero-dependency**, **TypeScript-first**, with **100% test co
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Avinashvelu03&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Avinashvelu03&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://streak-stats.demolab.com/?user=Avinashvelu03&theme=tokyonight&hide_border=true&background=00000000" height="180" alt="GitHub streak" />
 </p>
 
 ---
