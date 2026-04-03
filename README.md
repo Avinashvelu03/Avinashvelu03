@@ -29,9 +29,28 @@ All libraries are **zero-dependency**, **TypeScript-first**, with **100% test co
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-[![Avinash's GitHub Stats](https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=Avinashvelu03&show_icons=true&theme=dark&hide_border=true)](https://github.com/Avinashvelu03)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Avinashvelu03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
+    height="165"
+    alt="GitHub stats for Avinash"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=Avinashvelu03&theme=tokyonight&hide_border=true&background=00000000"
+    height="165"
+    alt="GitHub streak for Avinash"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashvelu03&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8"
+    height="165"
+    alt="Top languages used by Avinash"
+  />
+</p>
 
 ---
 
