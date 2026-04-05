@@ -22,7 +22,7 @@
 ```typescript
 const avinash = {
   role:       "Open-Source Library Author",
-  location:   "Madurai, Tamil Nadu, India 🇮🇳",
+  location:   "Chennai, Tamil Nadu, India 🇮🇳",
   stack:      ["TypeScript", "Node.js", "Bun", "Deno"],
   philosophy: "Zero deps. Strict types. 100% coverage.",
   currently:  "Building the TypeScript utility ecosystem",
