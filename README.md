@@ -82,12 +82,20 @@ const avinash = {
 
 ---
 
-## 📊 GitHub Stats
+## ☕ Support My Work
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Avinashvelu03&show_icons=true&theme=dark&title_color=4f98a3&icon_color=01696f&bg_color=171614&border_color=393836&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashvelu03&layout=compact&theme=dark&title_color=4f98a3&bg_color=171614&border_color=393836" />
+> All 9 libraries are **free, open-source, and zero-dependency** — built and maintained solo.
+> If any of them saved you time, a coffee keeps the builds going. ☕
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/avinashvelu)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor%20Me-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Avinashvelu03)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/avinashvelu)
+
+**No budget? No problem — these are free forever:**
+
+⭐ Star any repo that saved you time &nbsp;&nbsp;•&nbsp;&nbsp; 🐛 File issues &nbsp;&nbsp;•&nbsp;&nbsp; 📢 Share with your team
 
 </div>
 
