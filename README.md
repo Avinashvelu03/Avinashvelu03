@@ -35,12 +35,15 @@ All libraries are **zero-dependency**, **TypeScript-first**, with dual **ESM/CJS
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-faaik7qx2-avinashvelu03s-projects.vercel.app/api?username=Avinashvelu03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats-faaik7qx2-avinashvelu03s-projects.vercel.app/api/top-langs/?username=Avinashvelu03&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+  <img src="https://github-readme-stats-beige-three-20.vercel.app/api?username=Avinashvelu03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-beige-three-20.vercel.app/api/top-langs/?username=Avinashvelu03&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashvelu03&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashvelu03&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Avinashvelu03&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
