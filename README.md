@@ -46,11 +46,17 @@ All libraries are **zero-dependency**, **TypeScript-first**, with dual **ESM/CJS
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinashvelu03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=Avinashvelu03&theme=tokyonight&hide_border=true&background=00000000" height="160" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinashvelu03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashvelu03&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashvelu03&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="130" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinashvelu03&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Avinashvelu03&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ---
