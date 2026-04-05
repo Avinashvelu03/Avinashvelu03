@@ -57,7 +57,7 @@ All libraries are **zero-dependency**, **TypeScript-first**, with dual **ESM/CJS
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Avinashvelu03-181717?style=for-the-badge&logo=github)](https://github.com/Avinashvelu03)
-[![npm](https://img.shields.io/badge/npm-avinashvelu03-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~avinashvelu03)
+[![npm](https://img.shields.io/badge/npm-avinashvelu03-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~avinash695)
 [![Gmail](https://img.shields.io/badge/Gmail-avinashvelu03-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashvelu03@gmail.com)
 
 </div>
