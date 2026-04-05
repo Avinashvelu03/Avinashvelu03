@@ -5,7 +5,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Avinashvelu03?style=for-the-badge&color=01696f)](https://github.com/Avinashvelu03)
-[![npm packages](https://img.shields.io/badge/npm%20packages-9-01696f?style=for-the-badge&logo=npm)](https://www.npmjs.com/~avinashvelu03)
+[![npm packages](https://img.shields.io/badge/npm%20packages-9-01696f?style=for-the-badge&logo=npm)](https://www.npmjs.com/~avinash695)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178c6?style=for-the-badge&logo=typescript)](https://typescriptlang.org)
 [![Zero Deps](https://img.shields.io/badge/Dependencies-Zero-brightgreen?style=for-the-badge)](https://github.com/Avinashvelu03)
 
@@ -95,7 +95,7 @@ const avinash = {
 
 ## 💬 Get In Touch
 
-- 📦 **npm:** [npmjs.com/~avinashvelu03](https://www.npmjs.com/~avinashvelu03)
+- 📦 **npm:** [npmjs.com/~avinash695](https://www.npmjs.com/~avinash695)
 - 🐛 **Issues:** Open on any repo — PRs welcome
 - ⭐ **Star** any library that saves you time — it means everything to a solo dev
 
