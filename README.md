@@ -5,7 +5,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Avinashvelu03?style=for-the-badge&color=01696f)](https://github.com/Avinashvelu03)
-[![npm packages](https://img.shields.io/badge/npm%20packages-9-01696f?style=for-the-badge&logo=npm)](https://www.npmjs.com/~avinash695)
+[![npm packages](https://img.shields.io/badge/npm%20packages-10-01696f?style=for-the-badge&logo=npm)](https://www.npmjs.com/~avinash695)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178c6?style=for-the-badge&logo=typescript)](https://typescriptlang.org)
 [![Zero Deps](https://img.shields.io/badge/Dependencies-Zero-brightgreen?style=for-the-badge)](https://github.com/Avinashvelu03)
 
@@ -23,7 +23,7 @@
 const avinash = {
   role:       "Open-Source Library Author",
   location:   "Chennai, Tamil Nadu, India 🇮🇳",
-  stack:      ["TypeScript", "Node.js", "Bun", "Deno"],
+  stack:      ["TypeScript", "Node.js", "Bun", "Deno", "Python"],
   philosophy: "Zero deps. Strict types. 100% coverage.",
   currently:  "Building the TypeScript utility ecosystem",
 };
@@ -67,6 +67,12 @@ const avinash = {
 | [![typeforge-ts](https://img.shields.io/npm/v/typeforge-ts?label=typeforge-ts&color=01696f)](https://github.com/Avinashvelu03/TypeForge-ts) | **TypeScript-first Lodash replacement** — chunk, compact, flatten, groupBy, sortBy, intersection, zip, partition, range & more | `npm i typeforge-ts` |
 | [![mathfuse](https://img.shields.io/npm/v/mathfuse?label=mathfuse&color=01696f)](https://github.com/Avinashvelu03/mathfuse) | **Math library** — statistics (mean, median, variance, regression), linear algebra (matrix multiply, determinant, cosine similarity) | `npm i mathfuse` |
 
+### 🐍 Python Tools
+
+| Project | Description | Install |
+|---------|-------------|---------|
+| [yt-transcript-pro](https://github.com/Avinashvelu03/yt-transcript-pro) | **YouTube transcript extractor** — async concurrency, playlist/channel support, checkpointing, and 6 output formats. Production-grade CLI | `pip install yt-transcript-pro` |
+
 ---
 
 ## 🏗️ Design Principles
@@ -86,7 +92,7 @@ const avinash = {
 
 <div align="center">
 
-> All 9 libraries are **free, open-source, and zero-dependency** — built and maintained solo.
+> All 10 libraries are **free, open-source, and zero-dependency** — built and maintained solo.
 > If any of them saved you time, a coffee keeps the builds going. ☕
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/avinashvelu)
